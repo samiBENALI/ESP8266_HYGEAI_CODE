@@ -1,1 +1,1 @@
-# The final prototype code was tested and its fully functional , however the final_pcb code was not tested because of lack of components , its based on the same ESP8266 chip tho , so please feel free to test it and report back .
+ The final prototype code was tested and its fully functional , however the final_pcb code was not tested because of lack of components , its based on the same ESP8266 chip though, so please feel free to test it and report back .
